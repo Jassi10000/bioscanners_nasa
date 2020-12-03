@@ -1,4 +1,4 @@
-# bioscanners_nasa
+# bioscanners_nasa 🔥
 The hackathon winning project 🤩✨ on Scanning Biodiversity for lifeforms 
 
 For live demo of the website which clearly describes our project 
